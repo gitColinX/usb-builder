@@ -1,0 +1,9 @@
+# Downloaded driver packs (large; Dell's to distribute)
+DriverPacks/
+
+# Build logs
+logs/
+
+# Personal settings / launchers - never published
+my-*.ps1
+*.local.ps1
